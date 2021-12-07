@@ -1,1 +1,1 @@
-# open-source
+# time based thinking animation
